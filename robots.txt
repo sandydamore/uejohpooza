@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shohdai.getcrx.cn/sitemap.xml
